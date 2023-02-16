@@ -1,4 +1,5 @@
-# project1
+# 범죄률이 높은 직종이 따로 있는가에 대한 조사
+## 전문직종, 서비스업, 예술인등을 조사
 ``` python
 import csv
 import matplotlib.pyplot as plt
@@ -46,3 +47,4 @@ plt.show()
 
 
 ```
+> 범죄률이 높은 직종은 주로 스트레스에 취약한 ....
